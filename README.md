@@ -17,7 +17,7 @@
 
 1. 克隆项目到本地：
    ```
-   git clone https://github.com/yourusername/travel-assistant.git
+   https://github.com/SunACong/travel-assistant.git
    cd travel-assistant
    ```
 
